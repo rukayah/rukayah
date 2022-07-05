@@ -15,7 +15,7 @@
 
 #### My choice of data analytics and machine learning as a job is influenced by my background in mathematics. I've had expertise in identifying business needs and suggesting possible fixes. The determines whether machine learning is necessary for my data solution. In 2021, I finished the eight-month Data Science Bootcamp at Turing College in Lithuania. At the moment, I also work for Udacity as a Data Analyst session lead (external contractor); this position is associated with the ALX initiative in Africa. This portfolio shows my versatility in expressing data insights and overcoming machine learning challenges. Enjoy🙂
 
-<a href="https://ibb.co/HDTMsbL"><img src="https://i.ibb.co/HDTMsbL/photo-1503676260728-1c00da094a0b.jpg" alt="photo-1503676260728-1c00da094a0b" border="0" width="1800" height="400"></a>
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://images.pexels.com/photos/4164418/pexels-photo-4164418.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" width="1800" height="402">
 
 
 ### 🔧 My Skills:
@@ -44,6 +44,23 @@
             <img data-target="animated-image.replacedImage" alt="listgiffile.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/suhasmaddali/GIF-files/raw/main/listgiffile.gif" style="display: block; opacity: 1;">
           <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="384" height="480"></canvas></span></button>
           
+        
+        
+<h2 align = "center"> ⭐️ Exploratory and Explanatory Data Analysis Projects </h2> 
+
+| 🌄 [Data Analysis for Insights, Volcano data](https://github.com/rukayah/Data_Analysis_with_Volcano_Data)|🧘[Data Analysis for Insights, No show Appointment](https://github.com/rukayah/Data_Analysis_No_Show_Appointment)|
+| :-:| :-:| 
+| [<img src = "https://cdn.britannica.com/16/77416-120-6D5A3D41/volcano-Mount-St-Helens-south-eruption-May-18-1980.jpg" width = 500 height = 300/>](https://github.com/rukayah/Data_Analysis_with_Volcano_Data)| [<img src = "https://images.theconversation.com/files/304957/original/file-20191203-66986-im7o5.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop" width = 500 height = 300/>](https://github.com/rukayah/Data_Analysis_No_Show_Appointment)
+
+
+
+
+
+
+
+
+
+
 #### 🌱 I'm now studying data engineering with dataquest.io since I love finding solutions to problems. I want to be a part of the group that provides data analysts and scientists with access to valid data so they may make deductions and forecasts.
 
 <!--
