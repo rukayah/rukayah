@@ -13,7 +13,7 @@
 
 ### 👨‍🎓🙋‍♂️ About Me:
 
-#### My choice of data analytics and machine learning as a job is influenced by my background in mathematics. I've had expertise in identifying business needs and suggesting possible fixes. The determines whether machine learning is necessary for my data solution. In 2021, I finished the eight-month Data Science Bootcamp at Turing College in Lithuania. At the moment, I also work for Udacity as a Data Analyst session lead (external contractor); this position is associated with the ALX initiative in Africa. This portfolio shows my versatility in expressing data insights and overcoming machine learning challenges. Enjoy🙂
+#### My choice of data analytics and machine learning as a job is influenced by my background in mathematics. I've had expertise in identifying business needs and suggesting possible fixes,this also determines whether machine learning is necessary for my data solution. In 2021, I finished the eight-month Data Science Bootcamp at Turing College in Lithuania. At the moment, I also work for Udacity as a Data Analyst session lead (external contractor); this position is associated with the ALX initiative in Africa. This portfolio shows my versatility in expressing data insights and overcoming machine learning challenges. Enjoy🙂
 
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://images.pexels.com/photos/4164418/pexels-photo-4164418.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" width="1800" height="402">
 
