@@ -53,17 +53,23 @@
 | [<img src = "https://cdn.britannica.com/16/77416-120-6D5A3D41/volcano-Mount-St-Helens-south-eruption-May-18-1980.jpg" width = 500 height = 300/>](https://github.com/rukayah/Data_Analysis_with_Volcano_Data)| [<img src = "https://images.theconversation.com/files/304957/original/file-20191203-66986-im7o5.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop" width = 500 height = 300/>](https://github.com/rukayah/Data_Analysis_No_Show_Appointment)
 
 
+<h2 align = "center"> ⭐️ Machine Learning Projects </h2> 
+
+| [Africa Financial Inclusion Prediction](https://github.com/rukayah/financial)| [Staff Promotion Prediction](https://github.com/rukayah/Staff_Promotion)|
+| :-:| :-:| 
+| [<img src = "https://c8.alamy.com/comp/2BG9N81/financial-inclus…templates-web-design-and-infographics-2BG9N81.jpg" width = 500 height = 300/>](https://github.com/rukayah/financial)| [<img src = "https://t4.ftcdn.net/jpg/01/05/30/03/360_F_105300309_yhxQZcDrX4oI0j1IKNfAhgoBZ9J69yox.jpg" width = 500 height = 300/>](https://github.com/rukayah/Staff_Promotion)
 
 
+<h2 align = "center"> ⭐️ Web Scraping Projects</h2>
 
 
+<h2 align = "center"> ⭐️ Data Visualization Projects (PowerBI) </h2> 
 
 
-
-
-#### 🌱 I'm now studying data engineering with dataquest.io since I love finding solutions to problems. I want to be a part of the group that provides data analysts and scientists with access to valid data so they may make deductions and forecasts.
 
 <!--
+#### 🌱 I'm now studying data engineering with dataquest.io since I love finding solutions to problems. I want to be a part of the group that provides data analysts and scientists with access to valid data so they may make deductions and forecasts.
+
 **rukayah/rukayah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
