@@ -20,7 +20,7 @@
 
 ### 🔧 My Skills:
 
-#### For about three years now, I have been familiar with using Python for data analysis and machine learning. Additionally, I have knowledge of how to transform and visualize data using Power BI. Additionally, I've used SQL for data analysis (MYSQL). Here is a summary of some of the abilities I've developed throughout the course of working on projects. I was able to develop my insights generating and machine learning projects with the aid of the technology tools and methods I had learned. Look them up.
+#### For about three years now, I have been familiar with using Python for data analysis and machine learning. Additionally, I have knowledge of how to transform and visualize data using Power BI.I've used SQL for data analysis (MYSQL). Here is a summary of some of the abilities I've developed throughout the course of working on projects. I was able to develop my insights generating and machine learning projects with the aid of the technology tools and methods I had learned. Look them up.
 
 <p dir="auto">
 <a href="https://www.python.org" rel="nofollow"><img src="https://camo.githubusercontent.com/c676b5f90a1650624a0a9832d7954edda1db39ad3347d90c8c51e88ff2f92252/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d4646443433423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d6461726b677265656e" alt="" data-canonical-src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&amp;logo=python&amp;logoColor=darkgreen" style="max-width: 100%;">
