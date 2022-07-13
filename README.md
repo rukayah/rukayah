@@ -66,6 +66,13 @@
 | :-:| :-:| 
 | [<img src = "https://www.indeed.com/cmp/_s/photos/a718462517070ed0-sqt-1e962r61lnsue800" width = 500 height = 300/>](https://github.com/rukayah/Indeed-Website-Web-Scraping-BeautifulSoup-)| [<img src = "https://m.media-amazon.com/images/I/9171A-z090L._AC_UY218_.jpg" width = 500 height = 300/>](https://github.com/rukayah/Amazon-Website-Web-Scraping-BeautifulSoup-)
 
+<h2 align = "center"> ⭐️ Object Oriented Programming Based Projects </h2> 
+
+| [Building a Python Package](https://github.com/rukayah/OOP-Based-Calculator-Package)| [Automating Scraped Ebay Data to the Database](https://github.com/rukayah/Automating-Scraped-Data-to-DataBase)|
+| :-:| :-:| 
+| [<img src = "	https://cdn.ttgtmedia.com/rms/onlineimages/Math_programming_calc_figure_2_half_column_mobile.jpg" width = 500 height = 300/>](https://github.com/rukayah/OOP-Based-Calculator-Package)| [<img src = "https://media.ttmind.com/Media/tech/article_16_3-27-201911-28-56AM.png" width = 500 height = 300/>](https://github.com/rukayah/Automating-Scraped-Data-to-DataBase)
+
+
 <h2 align = "center"> ⭐️ Data Visualization Projects (PowerBI) </h2> 
 
 
