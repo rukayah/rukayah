@@ -70,7 +70,7 @@
 
 | [Building a Python Package](https://github.com/rukayah/OOP-Based-Calculator-Package)| [Automating Scraped Ebay Data to the Database](https://github.com/rukayah/Automating-Scraped-Data-to-DataBase)|
 | :-:| :-:| 
-| [<img src = "	https://cdn.ttgtmedia.com/rms/onlineimages/Math_programming_calc_figure_2_half_column_mobile.jpg" width = 500 height = 300/>](https://github.com/rukayah/OOP-Based-Calculator-Package)| [<img src = "https://media.ttmind.com/Media/tech/article_16_3-27-201911-28-56AM.png" width = 500 height = 300/>](https://github.com/rukayah/Automating-Scraped-Data-to-DataBase)
+| [<img src = "https://media.istockphoto.com/photos/digital-calculator-electronic-isolated-on-white-background-clipping-picture-id927250122?k=20&m=927250122&s=612x612&w=0&h=dxcUt-0KOIyEnNyu2Td2OXDOHY9jy2iY7txZD0QsyMo=" width = 500 height = 300/>](https://github.com/rukayah/OOP-Based-Calculator-Package)| [<img src = "https://media.ttmind.com/Media/tech/article_16_3-27-201911-28-56AM.png" width = 500 height = 300/>](https://github.com/rukayah/Automating-Scraped-Data-to-DataBase)
 
 
 <h2 align = "center"> ⭐️ Data Visualization Projects (PowerBI) </h2> 
