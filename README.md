@@ -52,12 +52,11 @@
 | :-:| :-:| 
 | [<img src = "https://cdn.britannica.com/16/77416-120-6D5A3D41/volcano-Mount-St-Helens-south-eruption-May-18-1980.jpg" width = 500 height = 300/>](https://github.com/rukayah/Data_Analysis_with_Volcano_Data)| [<img src = "https://images.theconversation.com/files/304957/original/file-20191203-66986-im7o5.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop" width = 500 height = 300/>](https://github.com/rukayah/Data_Analysis_No_Show_Appointment)
 
-<h2 align = "center"> ⭐️ SQL (SQLite) Projects </h2>
+<h2 align = "center"> ⭐️ SQL (Data Analysis with SQLite) Projects </h2>
 
-| 🌄 [Data Analysis for Insights, Volcano data](https://github.com/rukayah/Data_Analysis_with_Volcano_Data)|
-
-| :-:| :-:| 
-| [<img src = "https://cdn.britannica.com/16/77416-120-6D5A3D41/volcano-Mount-St-Helens-south-eruption-May-18-1980.jpg" width = 500 height = 300/>](https://github.com/rukayah/Data_Analysis_with_Volcano_Data)| [<img src = "https://images.theconversation.com/files/304957/original/file-20191203-66986-im7o5.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop" width = 500 height = 300/>](https://github.com/rukayah/Data_Analysis_No_Show_Appointment)
+ [Data Analysis for Insights, Model Car Sales](https://github.com/rukayah/Scale_Model_Car_Sales_Analysis)
+ 
+| [<img src = "https://thumbs.dreamstime.com/b/diecast-model-cars-displayed-foe-sale-diecast-model-cars-displayed-sale-shelf-toy-store-194186236.jpg" width = 500 height = 300/>](https://github.com/rukayah/Scale_Model_Car_Sales_Analysis)
 
 
 <h2 align = "center"> ⭐️ Machine Learning Projects </h2> 
