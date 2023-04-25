@@ -45,7 +45,9 @@
           <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="384" height="480"></canvas></span></button>
           
 <h2 align = "center"> ⭐️ AB Testing</h2>
-
+| 🌄 [Analysing Conversion Rate between two groups ](https://github.com/rukayah/experimental_analysis)|
+| :-:| :-:| 
+| [<img src = "https://www.shutterstock.com/image-vector/vector-icon-style-illustration-concept-600w-570239977.jpg" width = 500 height = 300/>](https://github.com/rukayah/Data_Analysis_with_Volcano_Data)|
         
 <h2 align = "center"> ⭐️ Exploratory and Explanatory Data Analysis Projects </h2> 
 
