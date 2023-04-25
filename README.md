@@ -44,7 +44,8 @@
             <img data-target="animated-image.replacedImage" alt="listgiffile.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/suhasmaddali/GIF-files/raw/main/listgiffile.gif" style="display: block; opacity: 1;">
           <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="384" height="480"></canvas></span></button>
           
-        
+<h2 align = "center"> ⭐️ AB Testing</h2>
+
         
 <h2 align = "center"> ⭐️ Exploratory and Explanatory Data Analysis Projects </h2> 
 
