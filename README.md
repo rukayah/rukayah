@@ -6,7 +6,7 @@
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
 
-#### I’m passionate about Data Analytics and machine learning. With the development of technology and the massive amount of data organisations worldwide generate consciously and unconsciously, there is a need to analyse the value of the data by exploring and predicting likely future events with the data for effective decision making.
+#### I’m passionate about Data Analytics and machine learning. With the development of technology and the massive amount of data organisations worldwide generate consciously and unconsciously, there is a need to analyse the value of the data by exploring and predicting likely future events with the data for effective decision-making.
 
 ####  ![image](https://user-images.githubusercontent.com/41371340/176736690-421d9026-2903-4a3e-9a37-020d3518904e.png)
 
